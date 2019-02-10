@@ -1,7 +1,17 @@
 div {
     border: solid black 2px;
-    width:800px;
+    width:600px;
     height:400px;
     padding: 20px;
-
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:lightgrey;
+}
+h1 {
+    font-size: 30px;
+    padding:20px;
+    color:white;
+    background-color:black;
+    width:600px;
+    font-weight:bolder;
 }
